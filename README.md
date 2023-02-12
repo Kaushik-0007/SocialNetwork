@@ -1,2 +1,3 @@
 # SocialNetwork
-Implementation of social networks using the data structure binary tree and the properties of binary search tree
+A binary tree based social network software with functions to insert, delete, search and print friends of a given user in sorted fashion
+
